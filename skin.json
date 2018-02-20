@@ -1,8 +1,8 @@
 {
 	"name": "ScratchWikiSkin",
-	"version": "1.0",
+	"version": "2.0",
 	"author": "Original skin by JSO, with contributions from jvvg, blob8108, scmb1, -PRO-, and others. Rewrite to update style and registration by Kenny2scratch.",
-	"url": "https://github.com/InternationalScratchWiki/ScratchWikiSkin2",
+	"url": "https://github.com/ScratchHindi-wiki/ScratchWikiSkin2",
 	"descriptionmsg": "scratchwikiskin-desc",
 	"namemsg": "skinname-scratchwikiskin2",
 	"license-name": "MIT",
@@ -38,5 +38,5 @@
 		"localBasePath": "",
 		"remoteSkinPath": "ScratchWikiSkin2"
 	},
-	"manifest_version": 1
+	"manifest_version": 2
 }
