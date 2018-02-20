@@ -32,7 +32,7 @@ h5 {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 30px;
 }
 
 h2 {
@@ -147,7 +147,7 @@ dl dd {
 
 .wikilogo {
     background-repeat: no-repeat;
-    height: 140px;
+    height: 150px;
     display: block;
     background-position: center center;
 }
@@ -155,7 +155,7 @@ dl dd {
 .button {
     display: inline-block;
     margin: .5em 0;
-    border: 0;
+    border: 3;
     border-radius: 5px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
     background-color: #25aff4;
